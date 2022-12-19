@@ -20,12 +20,13 @@ Taking notes.
 
 ## Usage Information
 Writting and keeping notes.
+Example: https://notes4notes.herokuapp.com/
 
 ## Contribution Guidlines
 Unlimited
 
 ## Testing Intructions
-undefined
+Got to example site(or your launched site) add note, save, delete. At this time updating notes in not available. 
 
 ##Questions?
 github.com/chitosama
